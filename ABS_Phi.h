@@ -1,7 +1,6 @@
 /*============================================
 # Filename: ABS_Phi.h
 # Ver 1.0 2014-06-09
-# Copyright (C) 2014 ChenLonggang (chenlonggang.love@163.com)
 #
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
